@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Additional Info for Simplelogin",
+  "name": "Additional Info for SimpleLogin Modified",
   "description": "Displays additional information for e-mails forwarded by Simplelogin. This is not an official addon and I am not affiliated with Simplelogin.",
-  "version": "1.1",
+  "version": "1.2",
   "author": "Sebastian Wieland <",
   "browser_specific_settings": {
     "gecko": {
@@ -16,7 +16,7 @@
     ]
   },
   "message_display_action": {
-    "default_title": "Simplelogin",
+    "default_title": "SimpleLogin",
     "default_icon": "images/simplelogin.svg",
     "default_popup": "messagePopup/popup.html"
   },
